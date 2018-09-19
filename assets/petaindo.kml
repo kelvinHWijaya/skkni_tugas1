@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Peta tanpa judul</name>
+    <description/>
+    <Style id="poly-4186F0-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4df08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-4186F0-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4df08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-4186F0-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-4186F0-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-4186F0-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-DB4436-1200-66-nodesc-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>423644db</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-DB4436-1200-66-nodesc-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>423644db</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-DB4436-1200-66-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-DB4436-1200-66-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-DB4436-1200-66-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F4EB37-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff37ebf4</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d37ebf4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-F4EB37-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff37ebf4</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d37ebf4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-F4EB37-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F4EB37-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F4EB37-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Lapisan tanpa judul</name>
+      <Placemark>
+        <name>Jaga 1
+</name>
+        <styleUrl>#poly-DB4436-1200-66-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                124.7438711,1.0219372,0
+                124.7441232,1.0216636,0
+                124.7442466,1.0215564,0
+                124.7446597,1.0216905,0
+                124.7452927,1.0218889,0
+                124.7454751,1.0219694,0
+                124.745357,1.0223234,0
+                124.7452927,1.0224789,0
+                124.7452176,1.0225969,0
+                124.7450298,1.0225272,0
+                124.744724,1.0223877,0
+                124.7443378,1.0221732,0
+                124.7441769,1.0221142,0
+                124.744032,1.0222805,0
+                124.743855,1.0221571,0
+                124.7437316,1.0220874,0
+                124.7438711,1.0219372,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Jaga 2
+</name>
+        <styleUrl>#poly-4186F0-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                124.7451586,1.0225862,0
+                124.7449225,1.023085,0
+                124.7448528,1.0232137,0
+                124.7441769,1.0228383,0
+                124.7440857,1.0228329,0
+                124.7439301,1.0229026,0
+                124.7438282,1.0229509,0
+                124.7436726,1.0228329,0
+                124.7439408,1.0224199,0
+                124.7439891,1.0223126,0
+                124.7440481,1.0222375,0
+                124.7441769,1.0221142,0
+                124.7446677,1.0223448,0
+                124.7451586,1.0225862,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Jaga 4
+</name>
+        <styleUrl>#poly-F4EB37-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                124.7444773,1.0230045,0
+                124.7448528,1.0232137,0
+                124.7449064,1.0232781,0
+                124.7448152,1.0234819,0
+                124.7447509,1.0238949,0
+                124.7446865,1.0241041,0
+                124.7445953,1.0243561,0
+                124.7444451,1.0246243,0
+                124.7443324,1.024796,0
+                124.7441125,1.0250963,0
+                124.7440535,1.0250963,0
+                124.7438872,1.0249837,0
+                124.7439194,1.0249301,0
+                124.7440213,1.0247531,0
+                124.7441822,1.0243508,0
+                124.7442734,1.0241416,0
+                124.7442949,1.0238144,0
+                124.7442627,1.0235141,0
+                124.7443378,1.023262,0
+                124.7444773,1.0230045,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Lapisan tanpa judul</name>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>

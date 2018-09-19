@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<zppi_data>
+<row>
+    <OID>0</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>06°03'59.06" LU</DMSLat>
+    <DMSLon>122°06'15.35" BT</DMSLon>
+    <NAME>Titik ZPPI No. 1 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>1</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>05°55'00.19" LU</DMSLat>
+    <DMSLon>122°08'03.77" BT</DMSLon>
+    <NAME>Titik ZPPI No. 2 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>2</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>05°55'34.01" LU</DMSLat>
+    <DMSLon>122°09'33.82" BT</DMSLon>
+    <NAME>Titik ZPPI No. 3 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>3</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>05°54'49.41" LU</DMSLat>
+    <DMSLon>122°14'54.04" BT</DMSLon>
+    <NAME>Titik ZPPI No. 4 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>4</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>06°15'11.92" LU</DMSLat>
+    <DMSLon>122°17'32.58" BT</DMSLon>
+    <NAME>Titik ZPPI No. 5 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>5</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>06°15'27.12" LU</DMSLat>
+    <DMSLon>122°23'51.60" BT</DMSLon>
+    <NAME>Titik ZPPI No. 6 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>6</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>06°09'33.79" LU</DMSLat>
+    <DMSLon>122°26'45.73" BT</DMSLon>
+    <NAME>Titik ZPPI No. 7 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>7</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>06°50'19.65" LU</DMSLat>
+    <DMSLon>122°48'50.27" BT</DMSLon>
+    <NAME>Titik ZPPI No. 8 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>8</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>06°52'35.42" LU</DMSLat>
+    <DMSLon>122°58'25.36" BT</DMSLon>
+    <NAME>Titik ZPPI No. 9 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>9</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>05°22'11.95" LU</DMSLat>
+    <DMSLon>127°32'50.73" BT</DMSLon>
+    <NAME>Titik ZPPI No. 10 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+<row>
+    <OID>10</OID>
+    <FID_viirs_>-1</FID_viirs_>
+    <PA_Str>6</PA_Str>
+    <DMSLat>05°27'15.69" LU</DMSLat>
+    <DMSLon>127°37'24.65" BT</DMSLon>
+    <NAME>Titik ZPPI No. 11 (Zona 6)</NAME>
+    <PA_Str_1>6</PA_Str_1>
+    <PA_Num_1>6</PA_Num_1>
+</row>
+</zppi_data>
